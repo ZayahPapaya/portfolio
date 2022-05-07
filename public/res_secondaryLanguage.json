@@ -11,14 +11,14 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Simplified Character Sheet",
+        "startDate": "2022",
+        "description": "A D&D character sheet that is built by user inputs, stores the six stats and saves the results to local storage with the option to clear.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/char-sheet/example.png",
+          "images/portfolio/char-sheet/example2.png"
         ],
-        "url": "",
+        "url": "https://github.com/ZayahPapaya/simplified-character-sheet",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +35,13 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "Pathfinder Notes",
+        "startDate": "2022",
+        "description": "Personal project for study subject. Making use of HTML as practice!",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/pfsheet.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/ZayahPapaya/pathfinder-notes",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,12 +54,11 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "Placeholder",
+        "startDate": "2022",
+        "description": "A placeholder till final project is done",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/placeholder/doitforpanda.png"
         ],
         "url": "https://github.com",
         "technologies": [

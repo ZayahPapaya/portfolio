@@ -37,9 +37,9 @@ Estimate of time needed to complete: 20m
 
 Start time: 2:00pm
 
-Finish time: _____
+Finish time: 3:00pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1hr
 
 #### Step 03
 

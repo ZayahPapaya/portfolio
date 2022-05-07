@@ -11,14 +11,14 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Simplified Character Sheet",
+        "startDate": "2022",
+        "description": "A D&D character sheet that is built by user inputs, stores the six stats and saves the results to local storage with the option to clear.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/char-sheet/example.png",
+          "images/portfolio/char-sheet/example2.png"
         ],
-        "url": "",
+        "url": "https://github.com/ZayahPapaya/simplified-character-sheet",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +35,13 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Pathfinder Notes",
+        "startDate": "2022",
+        "description": "Personal project for study subject. Making use of HTML as practice!",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/pfsheet.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/ZayahPapaya/pathfinder-notes",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,12 +54,11 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Placeholder",
+        "startDate": "2022",
+        "description": "A placeholder till final project is done",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/placeholder/doitforpanda.png"
         ],
         "url": "https://github.com",
         "technologies": [
