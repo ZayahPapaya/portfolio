@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Zayah Lang",
-      "titles": [ "Software Developer" ],
+      "titles": [ "That Which Codes" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/ZayahPapaya",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/aiden-lang/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "tigrProfile.png"
     },
     "skills": {
       "icons": [

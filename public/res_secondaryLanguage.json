@@ -1,12 +1,12 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Ursula Lopez. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Hallo",
+      "description": "Ich bin Zayah Lang und ich bin Softwareentwickler. Ich habe die Softwareentwicklung gewählt, um meine Stärken in meiner Karriere zu nutzen: Wie zum Beispiel in der Lage zu sein, große Mengen an Informationen schnell aufzunehmen und gut in Gruppensituationen zu arbeiten. Ich möchte diese Stärken in einem Umfeld anwenden, in dem ich mein Gedächtnis und meine Neugier einsetzen kann, um eine Vielzahl von Projekten zu bewältigen. Auch wenn es nicht sofort anwendbar erscheint, hat meine frühere Karriere in einem Spieleladen meine Fähigkeiten in diesem Bereich stark verbessert; In der Lage zu sein, ein kompliziertes Spiel in die Hand zu nehmen, es innerhalb von zwanzig Minuten zu lernen und dieses Spiel einer Gruppe von Kunden zu demonstrieren und beizubringen, ist direkt auf die Softwareentwicklung in einem Team anwendbar. Ich wurde in eine Familie von Softwareentwicklern hineingeboren, aber jetzt bin ich an der Reihe, in die Branche einzutauchen.",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "Über mich",
+        "projects": "Projekte",
+        "skills": "Fähigkeiten",
+        "experience": "Erfahrung"
       }
     },
     "projects": [
