@@ -26,6 +26,53 @@ Estimate of time needed to complete: 0.5hr
 
 Start time: 1:30pm
 
+Finish time: 1:50pm
+
+Actual time needed to complete: 20m
+
+#### Step 02
+
+Number and name of feature: About Me Page
+Estimate of time needed to complete: 20m
+
+Start time: 2:00pm
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+#### Step 03
+
+Number and name of feature: Projects Section
+
+Estimate of time needed to complete: _____
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+#### Step 04
+
+Number and name of feature: Skills and Experience Section
+
+Estimate of time needed to complete: _____
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+#### Step 05
+
+Number and name of feature: Personalize
+
+Estimate of time needed to complete: _____
+
+Start time: _____
+
 Finish time: _____
 
 Actual time needed to complete: _____
