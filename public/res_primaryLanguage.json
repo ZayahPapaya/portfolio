@@ -79,37 +79,32 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Let's Play Cafe",
+        "title": "Sales, teaching, handywork",
+        "years": "2019 - 2020",
         "mainTech": [
-          "Angular 8/9/10"
+          "Communication skills!"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Electronics maintenance",
+          "Teaching",
+          "Quick learning",
+          "Conflict resolution"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Starbucks",
+        "title": "Barista",
+        "years": "2021 - 2022",
         "mainTech": [
-          "Angular 7/8"
+          "Team coordination!"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Customer service",
+          "Teamwork",
+          "Inclusion",
+          "Time efficiency",
+          "Work under pressure"
         ]
       }
     ]
