@@ -5,6 +5,7 @@ import {
 } from "react-vertical-timeline-component";
 import "react-vertical-timeline-component/style.min.css";
 import Badge from "react-bootstrap/Badge";
+import Background from "./tomatovibing.gif"
 
 class Experience extends Component {
   render() {
@@ -33,7 +34,7 @@ class Experience extends Component {
             className="vertical-timeline-element--work"
             date={work.years}
             iconStyle={{
-              background: "#AE944F",
+              background: "#c895d4",
               color: "#fff",
               textAlign: "center",
             }}
@@ -78,12 +79,14 @@ class Experience extends Component {
             {work}
             <VerticalTimelineElement
               iconStyle={{
-                background: "#AE944F",
+                background: "#c895d4",
                 color: "#fff",
+                backgroundImage: `url(${Background})`,
+                backgroundSize: 'cover',
                 textAlign: "center",
               }}
               icon={
-                <i className="fas fa-hourglass-start mx-auto experience-icon"></i>
+                <i className=""></i>
               }
             />
           </VerticalTimeline>
